@@ -29,7 +29,7 @@ global.keepAliveRender = 0; // 1 o 0
 
 //------------------------------------------------
 
-global.botNumberCode = "917086726371" 
+global.botNumberCode = "+917086726371" 
 global.confirmCode = "" 
 //-----------------------------------------------
 
